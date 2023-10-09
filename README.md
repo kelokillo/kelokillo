@@ -1,5 +1,5 @@
 <div align=center>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Hey!+It%C2%B4s+Kalfukoyam;I%C2%B4m+a+Web+Developer+Junior;I+Love+Programming" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Hey!+It%C2%B4s+Kalfukoyam🌱;👨‍💻I%C2%B4m+a+Web+Developer+Junior;I+Love+Programming" alt="Typing SVG" /></a>
 </div>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
